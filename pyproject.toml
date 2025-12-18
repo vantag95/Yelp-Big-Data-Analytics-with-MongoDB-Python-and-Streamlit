@@ -1,0 +1,14 @@
+[project]
+name = "bigdata-project"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas",
+  "pymongo",
+  "pydantic",
+  "streamlit",
+  "loguru",
+]
+
+[dependency-groups]
+dev = ["pytest", "mypy"]
