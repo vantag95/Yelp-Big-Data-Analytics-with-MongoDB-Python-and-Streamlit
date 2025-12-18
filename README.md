@@ -79,7 +79,8 @@ F --> G[(MongoDB - agg_city, agg_state)]
 G --> H[Streamlit Dashboard
 app.py]
 
-<img width="1758" height="341" alt="Screenshot 2025-12-17 195440" src="https://github.com/user-attachments/assets/9993d295-35f1-41a9-8a60-96dd3097a6bd" />
+<img width="1758" height="341" alt="Screenshot 2025-12-17 195440" src="https://github.com/user-attachments/assets/b65e8a7d-67f2-4202-9496-20d7b63695ac" />
+
 
 
 - **Cluster structure:**
